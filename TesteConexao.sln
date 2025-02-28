@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteConexao", "TesteConexa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework", "EntityFramework\EntityFramework.csproj", "{2D0526E0-BA7A-48D9-A225-25A77E8E306B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperTeste", "DapperTeste\DapperTeste.csproj", "{376FECCD-796E-43BE-AB05-0BBF54D94D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{55A98A21-A460-4D66-907A-B2B6C215018A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{2D0526E0-BA7A-48D9-A225-25A77E8E306B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0526E0-BA7A-48D9-A225-25A77E8E306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0526E0-BA7A-48D9-A225-25A77E8E306B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376FECCD-796E-43BE-AB05-0BBF54D94D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376FECCD-796E-43BE-AB05-0BBF54D94D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376FECCD-796E-43BE-AB05-0BBF54D94D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376FECCD-796E-43BE-AB05-0BBF54D94D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A98A21-A460-4D66-907A-B2B6C215018A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A98A21-A460-4D66-907A-B2B6C215018A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A98A21-A460-4D66-907A-B2B6C215018A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A98A21-A460-4D66-907A-B2B6C215018A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

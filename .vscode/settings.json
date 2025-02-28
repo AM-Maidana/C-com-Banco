@@ -1,3 +1,14 @@
 {
-    "dotnet.defaultSolution": "TesteConexao.sln"
+    "dotnet.defaultSolution": "TesteConexao.sln",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Exercicios",
+            "database": "Conexao",
+            "username": "postgres"
+        }
+    ]
 }

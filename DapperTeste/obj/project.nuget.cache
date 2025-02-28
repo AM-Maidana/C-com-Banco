@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fp2FL/gp67g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amandamaidana\\Documents\\C# com Banco\\DapperTeste\\DapperTeste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amandamaidana\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\amandamaidana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\amandamaidana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\amandamaidana\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
