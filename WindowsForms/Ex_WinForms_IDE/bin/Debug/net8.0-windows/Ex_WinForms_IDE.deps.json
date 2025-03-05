@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex_WinForms_IDE/1.0.0": {
+        "runtime": {
+          "Ex_WinForms_IDE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_WinForms_IDE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

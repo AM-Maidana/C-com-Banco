@@ -1,0 +1,15 @@
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\bin\Debug\net8.0-windows\Ex_WinForms_IDE.exe
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\bin\Debug\net8.0-windows\Ex_WinForms_IDE.deps.json
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\bin\Debug\net8.0-windows\Ex_WinForms_IDE.runtimeconfig.json
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\bin\Debug\net8.0-windows\Ex_WinForms_IDE.dll
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\bin\Debug\net8.0-windows\Ex_WinForms_IDE.pdb
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.AssemblyInfoInputs.cache
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.AssemblyInfo.cs
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.csproj.CoreCompileInputs.cache
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.sourcelink.json
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.dll
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\refint\Ex_WinForms_IDE.dll
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.pdb
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\Ex_WinForms_IDE.genruntimeconfig.cache
+C:\Users\amandamaidana\Documents\C# com Banco\WindowsForms\Ex_WinForms_IDE\obj\Debug\net8.0-windows\ref\Ex_WinForms_IDE.dll
