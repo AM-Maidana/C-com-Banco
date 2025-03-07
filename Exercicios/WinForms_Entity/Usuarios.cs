@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
 
-namespace Exercicios_28FEV
+namespace Exercicios_07MAR
 {
     [Table("usuarios")]
     public class Usuarios
@@ -26,7 +26,6 @@ namespace Exercicios_28FEV
 
         [Column("especialidade")]
         public string especialidade {get; set;}
-
 
     }
 }

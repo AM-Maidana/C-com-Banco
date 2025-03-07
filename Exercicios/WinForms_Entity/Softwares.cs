@@ -2,29 +2,29 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Exercicios_28FEV
+namespace Exercicios_07MAR
 {
     [Table("software")]
-    public class Software
+    public class Softwares
     {
         [Key]
-        [Column("id_software")]
-        public int Id { get; set; }
+        [Column("idsoft")]
+        public int idsoft { get; set; }
 
         [Column("produto")]
-        public string Produto { get; set; }
+        public string produto { get; set; }
 
         [Column("harddisk")]
-        public int HD { get; set; }
+        public int harddisk { get; set; }
 
         [Column("memoria_ram")]
-        public int MemoriaRAM { get; set; }
+        public int memoria_ram { get; set; }
 
         // Chave estrangeira
         [Column("fk_maquina")]
-        public int MaquinaId { get; set; }
+        public int maquinaId { get; set; }
 
         [ForeignKey("MaquinaId")]  
-        public virtual Maquina Maquina { get; set; }
+        public virtual Maquinas Maquina { get; set; }
     }
 }

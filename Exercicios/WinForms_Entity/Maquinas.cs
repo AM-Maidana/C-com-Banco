@@ -2,14 +2,14 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Exercicios_28FEV
+namespace Exercicios_07MAR
 {
     [Table("maquina")]
-    public class Maquina
+    public class Maquinas
     {
         [Key]
-        [Column("id_maquina")]
-        public int id_maquina { get; set; }
+        [Column("idmaq")]
+        public int idmaq { get; set; }
 
         [Column("tipo")]
         public string tipo { get; set; }
@@ -35,3 +35,5 @@ namespace Exercicios_28FEV
         public virtual Usuarios Usuario { get; set; }  
     }
 }
+
+    

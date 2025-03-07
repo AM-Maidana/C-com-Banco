@@ -1,0 +1,6 @@
+C:\Users\amandamaidana\Documents\C# com Banco\Exercicios\obj\Debug\net8.0-windows\Exercicios.csproj.AssemblyReference.cache
+C:\Users\amandamaidana\Documents\C# com Banco\Exercicios\obj\Debug\net8.0-windows\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amandamaidana\Documents\C# com Banco\Exercicios\obj\Debug\net8.0-windows\Exercicios.AssemblyInfoInputs.cache
+C:\Users\amandamaidana\Documents\C# com Banco\Exercicios\obj\Debug\net8.0-windows\Exercicios.AssemblyInfo.cs
+C:\Users\amandamaidana\Documents\C# com Banco\Exercicios\obj\Debug\net8.0-windows\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\amandamaidana\Documents\C# com Banco\Exercicios\obj\Debug\net8.0-windows\Exercicios.sourcelink.json

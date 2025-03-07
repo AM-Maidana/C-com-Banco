@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsForms", "WindowsForm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2_Console_Forms", "WindowsForms\Ex2_Console_Forms\Ex2_Console_Forms.csproj", "{852F5F35-1688-4FAA-B9C9-31B8992B1155}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_ADO", "WindowsForms\Ex3_ADO\Ex3_ADO.csproj", "{1AC0A3D2-51C6-4455-83B5-04BF5FBAC460}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,9 +52,14 @@ Global
 		{852F5F35-1688-4FAA-B9C9-31B8992B1155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852F5F35-1688-4FAA-B9C9-31B8992B1155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852F5F35-1688-4FAA-B9C9-31B8992B1155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC0A3D2-51C6-4455-83B5-04BF5FBAC460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC0A3D2-51C6-4455-83B5-04BF5FBAC460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC0A3D2-51C6-4455-83B5-04BF5FBAC460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC0A3D2-51C6-4455-83B5-04BF5FBAC460}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1F237FE3-5A6D-48D8-ACB0-75BA6836AAFB} = {921FD01A-674D-4436-962F-4629441C1C4F}
 		{852F5F35-1688-4FAA-B9C9-31B8992B1155} = {921FD01A-674D-4436-962F-4629441C1C4F}
+		{1AC0A3D2-51C6-4455-83B5-04BF5FBAC460} = {921FD01A-674D-4436-962F-4629441C1C4F}
 	EndGlobalSection
 EndGlobal
